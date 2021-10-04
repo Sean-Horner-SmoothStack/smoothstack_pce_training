@@ -1,0 +1,3 @@
+Assignment completed, installed IntelliJ and using Python 3.9.2 installed from the Python Organization.
+
+This git repository will hold all future assignments and projects for the training.
